@@ -26,9 +26,8 @@ Name of Award, Organization
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=tP16dAEAAAAJ) -->
+<-- A list is also available [online](https://scholar.google.com/citations?user=tP16dAEAAAAJ) -->
 
-[online](https://scholar.google.com/citations?user=tP16dAEAAAAJ)
 
 ### Journals
 
