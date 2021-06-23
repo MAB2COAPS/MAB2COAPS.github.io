@@ -32,22 +32,16 @@ Name of Award, Organization
 ## Occupation
 
 `Current`
-__Professor of Meteorology__, Florida State University
-__Associate Directory__, Center for Ocean-Atmospheric Prediction Studies, Florida State University 
+__Professor of Meteorology__, Florida State University 
 
-- Task
-- Task
+- __Associate Directory__, Center for Ocean-Atmospheric Prediction Studies, Florida State University
+- NASA Ocean vector Winds Science Team Leader
 
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2021 -->
 
 
