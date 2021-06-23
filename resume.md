@@ -16,7 +16,7 @@ __University of ALberta__
 Masters of Science (spec) in Meteorology
 
 `1990 - 1993`
-__Perdue University__
+__Purdue University__
 Ph.D in Atmospheric Science 
 
 ## Awards
