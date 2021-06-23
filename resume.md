@@ -8,11 +8,11 @@ I am a faculty member in the Department of Earth, Ocean and Atmospheric Science,
 ## Education
 
 `1981 - 1985`
-__University of ALberta__
+__University of Alberta__
 Bachelors of Science (spec) in Physics
 
 `1986 - 1989`
-__University of ALberta__
+__University of lLberta__
 Masters of Science (spec) in Meteorology
 
 `1990 - 1993`
@@ -26,7 +26,9 @@ Name of Award, Organization
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=tP16dAEAAAAJ) -->
+
+<A list is also available [online](https://scholar.google.com/citations?user=tP16dAEAAAAJ)>
 
 ### Journals
 
